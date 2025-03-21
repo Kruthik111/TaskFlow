@@ -8,8 +8,8 @@
 ## Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/Kruthik111/TaskFlow.git
+cd TaskFlow
 ```
 
 ## Install Dependencies

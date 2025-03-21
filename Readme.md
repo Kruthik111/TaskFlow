@@ -12,12 +12,6 @@ git clone https://github.com/Kruthik111/TaskFlow.git
 cd TaskFlow
 ```
 
-## Install Dependencies
-
-```sh
-npm install
-```
-
 ## Running the Project Locally
 
 The project has both the **server** and **client**, but they need to be run separately. Use the following steps to set them up:

@@ -1,7 +1,7 @@
 {
-    "name": "koinx",
+    "name": "taskflow",
     "version": "1.0.0",
-    "description": "this is the koinx backend task given by koinx for hiring backend intern",
+    "description": "this is the backend task of CSTech Infosolutions assignment",
     "type": "module",
     "main": "index.js",
     "scripts": {

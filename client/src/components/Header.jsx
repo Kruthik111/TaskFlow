@@ -18,7 +18,7 @@ const Header = () => {
           </Link>
           <nav className="flex gap-6 items-center">
             <a
-              href="https://github.com/yourusername/web-visualizer"
+              href="https://github.com/Kruthik111/TaskFlow.git"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-white transition-colors"
